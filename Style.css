@@ -1,0 +1,19 @@
+.header{
+    background-color: skyblue;
+    display: flex;
+    justify-content: space-between;
+
+}
+.footer{
+    display:flex;
+    justify-content: flex-start;
+
+}
+.grid{
+    display: flex ;
+    flex-wrap:wrap;
+    justify-content: space-around;
+}
+p{
+    text-align: center;
+}
